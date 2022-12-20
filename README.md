@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gowtham1707
 - 👀 I’m interested in WebDevelopment
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on opensorceprojects
 - 📫 Reach me at gowthamvgy@gmail.com
 
